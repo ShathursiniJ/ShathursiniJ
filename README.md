@@ -6,11 +6,6 @@
 </p>
 
 <p align="center">
-  <!-- Cute Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=header"/>
-</p>
-
-<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/saayinath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
