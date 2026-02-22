@@ -1,78 +1,72 @@
-<!-- ✨ HEADER SECTION ✨ -->
-<h1 align="center"> Hi, I'm Shathursini Jeyaprakash </h1>
+<!-- ================= HEADER ================= -->
+<h1 align="center">Shathursini Jeyaprakash</h1>
 
 <p align="center">
-  <strong>Software Engineering Undergraduate |  UI/UX Designer |  Full-Stack & Mobile App Developer</strong>
+  <strong>Software Engineering Undergraduate | UI/UX Designer | Full-Stack & Mobile Application Developer</strong>
 </p>
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/saayinath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shathursini-jey" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- Portfolio -->
   <a href="https://portfoliosaayi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/SaayinathK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DDA0DD?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ShathursiniJ" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <!-- Email -->
-  <a href="mailto:k.saayinath@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF8DA1?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/_saayinath_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/kanesamoorthy.saayinath" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-BA55D3?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="mailto:shathursinijeyaprakash01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- 🌷 ABOUT ME SECTION 🌷 -->
-<h2 align="center"> About Me</h2>
+## About Me
 
-<p align="center">
-  I'm a passionate <strong>Software Engineering Undergraduate at SLIIT</strong> who loves creating 
-  <strong>beautiful, user-friendly, and scalable applications</strong>.  
-  I enjoy blending logic with creativity — turning ideas into elegant digital experiences 
-</p>
+I am a dedicated **BSc (Hons) Software Engineering undergraduate at Sri Lanka Institute of Information Technology (SLIIT)** with a strong interest in building scalable, user-centric digital solutions.
+
+My work focuses on integrating clean architecture principles with intuitive UI/UX design to deliver applications that are both technically robust and aesthetically refined. I am particularly interested in full-stack development and cross-platform mobile application engineering.
 
 ---
 
-### 🎓 Education
- **BSc (Hons) in Software Engineering** – SLIIT  
+## Education
 
-###  Currently Exploring
- Spring Boot  
- Flutter  
- Cloud Deployment (AWS / Azure)  
+**BSc (Hons) in Software Engineering**  
+Sri Lanka Institute of Information Technology (SLIIT)
 
-###  Interests
- UI/UX Design  
- Clean Architecture  
- Mobile App Development  
- Full-Stack Web Development  
+---
 
-###  Location
- Malabe, Sri Lanka  
+## Technical Interests
+
+- UI/UX Design and Prototyping  
+- Clean Architecture & System Design  
+- Full-Stack Web Development  
+- Mobile Application Development  
+
+---
+
+## Currently Exploring
+
+- Spring Boot  
+- Flutter  
+- Cloud Deployment (AWS / Azure)  
+
+---
+
+## Location
+
+Malabe, Sri Lanka  
 
 ---
 
 <p align="center">
-   “Design is intelligence made visible.”  
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=footer"/>
+  <em>“Design is intelligence made visible.”</em>
 </p>
