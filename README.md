@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Shathursini Jeyaprakash </h1>
 
 <p align="center">
-  <strong>💖 Software Engineering Undergraduate | 🎨 UI/UX Designer | 💻 Full-Stack & Mobile App Developer</strong>
+  <strong>Software Engineering Undergraduate |  UI/UX Designer |  Full-Stack & Mobile App Developer</strong>
 </p>
 
 <p align="center">
@@ -40,37 +40,37 @@
 ---
 
 <!-- 🌷 ABOUT ME SECTION 🌷 -->
-<h2 align="center">🌷 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
   I'm a passionate <strong>Software Engineering Undergraduate at SLIIT</strong> who loves creating 
   <strong>beautiful, user-friendly, and scalable applications</strong>.  
-  I enjoy blending logic with creativity — turning ideas into elegant digital experiences ✨
+  I enjoy blending logic with creativity — turning ideas into elegant digital experiences 
 </p>
 
 ---
 
 ### 🎓 Education
-💗 **BSc (Hons) in Software Engineering** – SLIIT  
+ **BSc (Hons) in Software Engineering** – SLIIT  
 
-### 🌸 Currently Exploring
-🌱 Spring Boot  
-🌱 Flutter  
-🌱 Cloud Deployment (AWS / Azure)  
+###  Currently Exploring
+ Spring Boot  
+ Flutter  
+ Cloud Deployment (AWS / Azure)  
 
-### 💡 Interests
-🎨 UI/UX Design  
-🏗 Clean Architecture  
-📱 Mobile App Development  
-🌐 Full-Stack Web Development  
+###  Interests
+ UI/UX Design  
+ Clean Architecture  
+ Mobile App Development  
+ Full-Stack Web Development  
 
-### 📍 Location
-🌍 Malabe, Sri Lanka  
+###  Location
+ Malabe, Sri Lanka  
 
 ---
 
 <p align="center">
-  💕 “Design is intelligence made visible.”  
+   “Design is intelligence made visible.”  
 </p>
 
 <p align="center">
