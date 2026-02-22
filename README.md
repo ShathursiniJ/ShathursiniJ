@@ -1,5 +1,5 @@
 <!-- ✨ HEADER SECTION ✨ -->
-<h1 align="center">🌸 Hi, I'm Shathursini Jeyaprakash 🌸</h1>
+<h1 align="center"> Hi, I'm Shathursini Jeyaprakash </h1>
 
 <p align="center">
   <strong>💖 Software Engineering Undergraduate | 🎨 UI/UX Designer | 💻 Full-Stack & Mobile App Developer</strong>
